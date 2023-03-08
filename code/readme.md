@@ -8,4 +8,7 @@ The following link is what's used below.
     ![Kiku](../images/Kiku.jpg)
 
 ![Kiku](../images/Kiku.jpg)
+
 <img src="../images/Kiku.jpg"  width="600">
+
+<img src="../images/Kiku.jpg"  width="200">
