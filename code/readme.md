@@ -11,4 +11,6 @@ The following link is what's used below.
 
 <img src="../images/Kiku.jpg"  width="600">
 
+<p align="center">
 <img src="../images/Kiku.jpg"  width="200">
+</p>
